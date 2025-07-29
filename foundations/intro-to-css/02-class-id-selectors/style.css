@@ -1,0 +1,22 @@
+.dopplegangers {
+    background-color: rgb(246, 147, 147);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+div{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#special{
+    font-size: 24px;
+}
+#first {
+    color: blue;
+    font-size: 36px;
+    
+}
+#second {
+    background-color: rgb(104, 231, 104);
+    font-size: 24px;
+    font-weight: bold;
+}
